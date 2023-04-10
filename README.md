@@ -56,7 +56,7 @@ Se están probando nuevas librerías para poder implementar en el proyecto.
   2) https://www.youtube.com/playlist?list=PLUzHPkQscM7KgYprVWFUUvsjyCw_tLieO 
   3) https://www.youtube.com/playlist?list=PLUzHPkQscM7KSK17ysaVsfApApHFuy8VS
   4) https://www.youtube.com/playlist?list=PLUzHPkQscM7ID_lMObNCX4KktGpu09_f9
-  5) https://www.youtube.com/playlist?list=PLUzHPkQscM7IRLqBKJsxFlEbrk5b-WPTi
+
   
   
 
