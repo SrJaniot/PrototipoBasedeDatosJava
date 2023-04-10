@@ -16,9 +16,9 @@ Este es un prototipo de una base de datos en el que se puede evidenciar como las
 # Recursos para poder ejecutar el proyecto: 
   
   
- JDK-17: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
- Apache NetBeans: https://netbeans.apache.org/download/nb14/
- XAMMP (BASE DATA): https://www.apachefriends.org/es/index.html
+ 1) JDK-17: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+ 2) Apache NetBeans: https://netbeans.apache.org/download/nb14/
+ 3) XAMMP (BASE DATA): https://www.apachefriends.org/es/index.html
 
 
 # Instalación:
