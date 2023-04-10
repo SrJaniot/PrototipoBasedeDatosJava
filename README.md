@@ -27,11 +27,11 @@ Este es un prototipo de una base de datos en el que se puede evidenciar como las
 2) Descargar o clonar este repositorio.
 3) Abrir XAMMP, ejecutar e iniciar Apache y MySQL.
 4) Ir a MySQL (http://localhost/phpmyadmin/), crear una base de datos llamada "reto5" e importar la base de datos que se encuentra en el repositorio (PrototipoBasedeDatosJava/DataBase/reto5.sql).
-5) Abrir Apache NetBeans (Recomendable la vercion 17) y abrir el proyecto (Reto6).
+5) Abrir Apache NetBeans (Recomendable la versión-17) y abrir el proyecto (Reto6).
 6) Comprobar que Netbeans corra con JDK-17 el proyecto.
-7) Comprobar que el proyecto Tenga las librerias  mysql-connector-java-8.0.29.jar , Junit 4.13.2 y JDK 17 
-8) En caso de no tener dichas librerías puede encontrarlas en la carpeta "librerias" que se encuentra en el proyecto (Reto6\Librerias) e instalarlas desde NetBeans al proyecto (Hacer este paso solo en caso de no encontrar las librerias ).
-9) Ir a la clase conexion.java (Reto6/SourcePackages/controlador/conexion.java) y asegurarse de que las variables "user" y "password" estan igual a como usted configuro MySQL  y que la variable "url" tenga la ruta a la base de datos ej: (String url ="jdbc:mysql://localhost:3306/reto5";). en caso de no haber llamado "reto5" la base de datos, cambiar el nombre "reto5" por el nombre que usted le puso.
+7) Comprobar que el proyecto Tenga las librerías  mysql-connector-java-8.0.29.jar , Junit 4.13.2 y JDK 17 
+8) En caso de no tener dichas librerías puede encontrarlas en la carpeta "librerias" que se encuentra en el proyecto (Reto6\Librerias) e instalarlas desde NetBeans al proyecto (Hacer este paso solo en caso de no encontrar las librerías ).
+9) Ir a la clase conexion.java (Reto6/SourcePackages/controlador/conexion.java) y asegurarse de que las variables "user" y "password" estan igual a como usted configuro MySQL  y que la variable "url" tenga la ruta a la base de datos ej: (String url ="jdbc:mysql://localhost:3306/reto5";). En caso de no haber llamado "reto5" la base de datos, cambiar el nombre "reto5" por el nombre que usted le puso.
 10) Ejecutar el proyecto desde el botón de "play" o pulsando "F6".
 
 
@@ -39,9 +39,11 @@ Este es un prototipo de una base de datos en el que se puede evidenciar como las
 # Test y Pruebas unitarias.
 
 Este proyecto cuenta con test y pruebas unitarias gracias a que se hace uso de la libreria JUnit 1.13.2.
-En el archivo Pruebas.java (Reto6/TestPackages/<defaultpackage>/Pruebas.java) podra probar algunos test que e generado, si quiere puede generar sus propios test haciendo uso de la etiqueta "@Test".
+En el archivo Pruebas.java (Reto6/TestPackages/<defaultpackage>/Pruebas.java) podra probar algunos test que he generado, si quiere puede generar sus propios test haciendo uso de la etiqueta "@Test".
   
-# Se estan probando nuevas librerias para poder implementar en el proyecto.
+  
+  
+Se están probando nuevas librerías para poder implementar en el proyecto.
   
   
   
