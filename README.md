@@ -27,7 +27,7 @@ Este es un prototipo de una base de datos en el que se puede evidenciar como las
 2) Descargar o clonar este repositorio.
 3) Abrir XAMMP, ejecutar e iniciar Apache y MySQL.
 4) Ir a MySQL (http://localhost/phpmyadmin/), crear una base de datos llamada "reto5" e importar la base de datos que se encuentra en el repositorio (PrototipoBasedeDatosJava/DataBase/reto5.sql).
-5) Abrir Apache NetBeans (Recomendable la versión-17) y abrir el proyecto (Reto6).
+5) Abrir Apache NetBeans (Recomendable la versión-14) y abrir el proyecto (Reto6).
 6) Comprobar que Netbeans corra con JDK-17 el proyecto.
 7) Comprobar que el proyecto Tenga las librerías  mysql-connector-java-8.0.29.jar , Junit 4.13.2 y JDK 17 
 8) En caso de no tener dichas librerías puede encontrarlas en la carpeta "librerias" que se encuentra en el proyecto (Reto6\Librerias) e instalarlas desde NetBeans al proyecto (Hacer este paso solo en caso de no encontrar las librerías ).
