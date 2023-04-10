@@ -44,7 +44,10 @@ En el archivo Pruebas.java (Reto6/TestPackages/<defaultpackage>/Pruebas.java) po
 # Se estan probando nuevas librerias para poder implementar en el proyecto.
   
   
-#Si quieres aprender sigue mi canal: https://www.youtube.com/channel/UC0MwhrWoo_vBfO5yyWEMdvA
+  
+  
+  
+# Si quieres aprender sigue mi canal: https://www.youtube.com/channel/UC0MwhrWoo_vBfO5yyWEMdvA
   
   Algunas listas de reproduccion de mis trabajos:
   1) https://www.youtube.com/playlist?list=PLUzHPkQscM7LlaUa4qEd9sILxfghSo0jC
